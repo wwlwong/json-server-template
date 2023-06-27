@@ -1,52 +1,107 @@
 {
-  "toys": [
+  "speaking part 1": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "topic": "Riding a bike",
+      "questions": ["Did you have a bike when you were young?", "Did you ride a bike when you were little?", "Did you ride a bike to school?", "Do you ride a bike when you go out now?"],
+      "views": 0
+    },
+    
+    {
+      "id": 2,
+      "topic": "Dream and ambition",
+      "questions": ["What was your childhood dream?", "Are you the kind of person who sticks to dreams?", "What is your dream job?", "Do you think you are an ambitious person?"],
+      "views": 0
+    },
+    {
+      "id" : 3,
+      "topic" : "Day off",
+      "questions": ["When was the last time you had a few days off?",
+      "What do you usually do when you have your days off?",
+      "Do you usually spend your days off with your parents or with your friends?",
+      "What would you like to do if you had a day off tomorrow?"],
+      "views": 0
+    },
+    {
+      "id" : 4,
+      "topic" : "Concentration",
+      "questions": ["Did you stay focused in class when you were a child?",
+      "Are you a focused person?",
+      "How do you stay focused?",
+      "Is it easy to stay focused in a noisy environment?"],
+      "views": 0
+    }
+  ],
+  "speaking part 2": [
+    {
+      "id": 1,
+      "topic": "Describe a talk you gae to a group of people",
+      "questions": ["Who you gave the talk to", "What the talk was about", "Why you gave the talk", "And explain how you felt about the talk"],
+      "views": 0
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "topic": "Describe the ideal house you would like to have",
+      "questions": ["Where it would be", "What it would look like", "What special features it would have", "And explain why it would be your ideal house"],
+      "views": 0
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "topic": "Describe someone you know who often helps others",
+      "questions": ["What he/she is like", "How he/she helps others", "Why his/her help is beneficial", "And explain why he/she helps others"],
+      "views": 0
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "topic": "Describe an invention that is useful in your daily life",
+      "questions": ["What the invention is", "What it can do", "How popular it is", "And explain why it is useful"],
+      "views": 0
     }
+  ],
+  "speaking part 3": [
+    {
+      "id": 1,
+      "topic": "Describe a talk you gae to a group of people",
+      "questions": ["What benefits does the internet bring to communication?",
+       "Which one is better, being a communicator or a listener?", 
+       "What qualities does a person need to have to be a good communicator?",
+       "What qualities do people need to speak in public?",
+       "How important is it to be a good listener when communicating?", 
+       "What kinds of people often give speeches?"],
+      "views": 0
+    },
+    {
+      "id": 2,
+      "topic": "Describe the ideal house you would like to have",
+      "questions": ["What are the most common architectural styles in Chinese cities?",
+       "What is the difference between an apartment and a house?",
+       "What is the difference between living in the countryside and living in the city?",
+       "What are the advantages of the facilities of the apartment and the facilities of the house?",
+       "What difficulties do people have living in the city?",
+      "What can be done to reduce the stress of city life?"],
+      "views": 0
+    },
+    {
+      "id": 3,
+      "topic": "Describe someone you know who often helps others",
+      "questions": ["How can children help their parents at home?",
+       "Should children be taught to help others?",
+       "What makes children help each other at school?",
+       "Should students do community service? Why?",
+       "Do students in your country do volunteer work?",
+       "Why do some people do volunteer work all over the world?"],
+      "views": 0
+    },
+    {
+      "id": 4,
+      "topic": "Describe an invention that is useful in your daily life",
+      "questions": ["What qualities do inventors have?",
+       "Do you think only scientists can invent new things?",
+       "What inventions do you think should be improved?",
+       "Are there any other inventions that make the world better?",
+       "Do all inventions bring benefits to our world?",
+       "Who should support and sponsor inventors, governments, or private companies?"],
+      "views": 0
+    } 
   ]
 }
