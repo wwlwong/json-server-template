@@ -1,5 +1,5 @@
 {
-  "speaking part 1": [
+  "speaking_part1": [
     {
       "id": 1,
       "topic": "Riding a bike",
@@ -32,7 +32,7 @@
       "views": 0
     }
   ],
-  "speaking part 2": [
+  "speaking_part2": [
     {
       "id": 1,
       "topic": "Describe a talk you gae to a group of people",
@@ -58,7 +58,7 @@
       "views": 0
     }
   ],
-  "speaking part 3": [
+  "speaking_part3": [
     {
       "id": 1,
       "topic": "Describe a talk you gae to a group of people",
