@@ -35,7 +35,7 @@
   "speaking_part2": [
     {
       "id": 1,
-      "topic": "Describe a talk you gae to a group of people",
+      "topic": "Describe a talk you gave to a group of people",
       "questions": ["Who you gave the talk to", "What the talk was about", "Why you gave the talk", "And explain how you felt about the talk"],
       "views": 0
     },
@@ -61,7 +61,7 @@
   "speaking_part3": [
     {
       "id": 1,
-      "topic": "Describe a talk you gae to a group of people",
+      "topic": "Describe a talk you gave to a group of people",
       "questions": ["What benefits does the internet bring to communication?",
        "Which one is better, being a communicator or a listener?", 
        "What qualities does a person need to have to be a good communicator?",
